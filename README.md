@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Pinethanku&height=150&fontSize=65&desc=And%20you?&descAlignY=75&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Pinethanku&height=150&fontSize=70&desc=And%20you?&descAlignY=75&descAlign=65&fontColor=d6ace6)
 
 ## Hi there 👋
 
