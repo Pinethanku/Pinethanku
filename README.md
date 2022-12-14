@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Pinethanku%20andyou?&fontSize=90)
+
+
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Pinethanku&height=150&fontSize=60&desc=And%20you?&descAlignY=75&descAlign=60)
 
 ## Hi there 👋
 
