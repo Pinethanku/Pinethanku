@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Pinethanku&height=170&fontSize=70&desc=And%20you?&descAlignY=75&descAlign=66.5)
 
-## Hi there 👋
-<br>
 <!--
 **Pinethanku/Pinethanku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hi there 👋
+
+
+<br>
 
 
 ## 📚Studying
@@ -28,15 +30,14 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  <br>
 
-  ### 🛠 Tools
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![velog](https://img.shields.io/badge/velog-%23121011.svg?style=for-the-badge&logo=Velog&logoColor=#20C997)
+## 🛠 Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![velog](https://img.shields.io/badge/velog-%23121011.svg?style=for-the-badge&logo=Velog&logoColor=#20C997)
 
-  <br>
+<br>
 
 
 
